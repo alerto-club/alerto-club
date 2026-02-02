@@ -74,4 +74,6 @@ public class AlertoProfile {
 
 <div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dalerto-club%26show_icons%3Dtrue%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3D58A6FF%26text_color%3D8b949e" height="170" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dalerto-club%26layout%3Dcompact%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3D58A6FF%26text_color%3D8b949e" height="170" /> </div>
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=alerto-club&style=for-the-badge"> </div>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
