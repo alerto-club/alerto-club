@@ -1,63 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=Alexander%20Butenko&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=62&descSize=20" width="100%" />
+  <h1>Alexandr Butenko</h1>
+  <p><b>Java Backend Engineer | System Architect | Startup Enthusiast</b></p>
+
+  <p>
+    <a href="https://alerto.pro"><b>Website</b></a> •
+    <a href="https://t.me/AlertoOff"><b>Telegram</b></a> •
+    <a href="mailto:alertoof@gmail.com"><b>Email</b></a>
+  </p>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999&icon_color=ffffff" alt="Stats" width="400" />
 </div>
 
-### 👋 Привет! Я Александр, Java Backend разработчик из Казани.
+---
 
-Я специализируюсь на создании масштабируемых серверных решений. Учусь в Колледже IT при КНИТУ-КАИ и фокусируюсь на бэкенде и стартапах.
+### 🟢 Professional Profile
+* **Focus:** Developing scalable server-side applications and microservices architecture.
+* **Current Status:** 3rd year IT student at Kazan Technical University (2022 — 2026).
+* **Location:** Kazan, Russia (Available for remote/relocation).
+* **Philosophy:** "Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live."
 
 ---
 
-### 🛠 Мой Стек (Tech Stack)
+### 🛠 Technical Ecosystem
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" />
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>Postgres
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
-      <br>Linux
-    </td>
-  </tr>
-</table>
-
-**Также в арсенале:** Hibernate, MongoDB, MySQL, Redis, Git, Nginx.
+| Layer | Technologies |
+| :--- | :--- |
+| **Languages** | Java (Core, Concurrency), Python, TypeScript |
+| **Frameworks** | Spring Boot, Spring Security, Spring Data JPA, Hibernate |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Infrastructure** | Docker, Docker Compose, Kubernetes, Nginx, Linux (Ubuntu/Debian) |
+| **Tools** | Git, Jenkins, GitHub Actions, Postman, Swagger (OpenAPI) |
 
 ---
 
-### 📊 Моя активность (GitHub Stats)
+### 🏗 Featured Projects
 
+#### [Avitoria](https://github.com/ТВОЙ_НИК/Avitoria)
+*High-load marketplace backend service.*
+* **Stack:** Java, Spring Boot, PostgreSQL, Docker.
+* **Key Feature:** Implemented complex search filtering and optimized DB queries.
+
+#### [Konspectinna](https://github.com/ТВОЙ_НИК/Konspectinna)
+*Educational platform for student notes management.*
+* **Stack:** Spring Boot, Security, MongoDB.
+* **Key Feature:** Custom JWT-based authentication and file storage system.
+
+---
+
+### 📊 Activity
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alerto&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alerto&layout=compact&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_НИК&theme=dark&hide_border=true&background=00000000&title_color=ffffff&text_color=999999&sideNums=ffffff&sideLabels=999999" alt="Streak" />
 </p>
 
----
-
-### 🔗 Связь и Портфолио
-- 🌐 **Личный сайт:** [alerto.pro](https://alerto.pro) *(укажи здесь свой домен)*
-- ✈️ **Telegram:** [@Alerto](https://t.me/AlertoOff)
-- 📧 **Email:** [alertoof@gmail.com](mailto:alertoof@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=999999" alt="Top Languages" width="350" />
+</div>
 
 ---
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20offers-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-RU%20(Native)%20%7C%20EN%20(B2)-blue?style=flat-square" />
 </p>
