@@ -12,15 +12,11 @@
   <a href="https://t.me/AlertoOff"><img src="https://img.shields.io/badge/Telegram-DM_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:alertoof@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=alerto-club&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
-
 </div>
 
 <br>
 
-### 👨‍💻 Engineering Profile
+### 捉窶昨汳ｻ Engineering Profile
 
 ```java
 public class AlertoProfile {
