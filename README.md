@@ -27,7 +27,7 @@ public class AlertoProfile {
     private final String NAME = "Alexandr Butenko";
     private final int AGE = 19; //
     private final String LOCATION = "Kazan, RU"; //
-    private final String EDUCATION = "Computer Systems & Networking @ KTU"; //
+    private final String EDUCATION = "College of IT @ KTU (2022-2026)"; //
     
     private String[] focus = {
         "High-Load Backend Systems",
@@ -58,7 +58,7 @@ public class AlertoProfile {
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite">
 
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05033%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite"> </td> <td align="center" width="33%"> <b>Databases</b>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack"> </td> <td align="center" width="33%"> <b>Databases & Tools</b>
 
 
 
@@ -68,7 +68,7 @@ public class AlertoProfile {
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Redis-DC382D%3Fstyle%3Dfor-the-badge%26logo%3Dredis%26logoColor%3Dwhite">
 
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MongoDB-47A248%3Fstyle%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite"> </td> </tr> </table>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05033%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite"> </td> </tr> </table>
 
 <h3 align="center">📊 Activity Statistics</h3>
 
