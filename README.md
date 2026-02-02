@@ -51,7 +51,7 @@ public class AlertoProfile {
         }
     }
 }
-```
+
 <h3 align="center">🛠 Technical Arsenal</h3>
 
 <table align="center" border="0"> <tr> <td align="center" width="33%"> <b>Backend & Core</b>
