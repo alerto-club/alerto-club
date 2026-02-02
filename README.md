@@ -16,14 +16,14 @@
 
 <br>
 
-### 捉窶昨汳ｻ Engineering Profile
+### 👨‍💻 Engineering Profile
 
 ```java
 public class AlertoProfile {
     private final String NAME = "Alexandr Butenko";
-    private final int AGE = 19; //
-    private final String LOCATION = "Kazan, RU"; //
-    private final String EDUCATION = "College of IT @ KTU (2022-2026)"; //
+    private final int AGE = 19;
+    private final String LOCATION = "Kazan, RU";
+    private final String EDUCATION = "College of IT @ KTU (2022-2026)";
     
     private String[] focus = {
         "High-Load Backend Systems",
@@ -70,4 +70,7 @@ public class AlertoProfile {
 
 <div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dalerto-club%26show_icons%3Dtrue%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3D58A6FF%26text_color%3D8b949e" height="170" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dalerto-club%26layout%3Dcompact%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D58A6FF%26icon_color%3D58A6FF%26text_color%3D8b949e" height="170" /> </div>
 
-<div align="center"> <a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://komarev.com/ghpvc/?username=alerto-club&style=for-the-badge"> </a> </div>
+<div align="center">
+
+
+<a href="https://github.com/antonkomarev/github-profile-views-counter"> <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dalerto-club%26style%3Dfor-the-badge%26color%3Dblue"> </a> </div>
