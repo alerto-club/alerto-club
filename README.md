@@ -34,37 +34,37 @@ public class AlertoProfile {
 ```
 <h3 align="center">🛠 Technical Arsenal</h3>
 
-<table align="center" border="0"> <tr> <td align="center" width="33%"> <b>Backend & Core</b>
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite">
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite">
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"> </td> <td align="center" width="33%"> <b>Infrastructure & DevOps</b>
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite">
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite">
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack"> </td> <td align="center" width="33%"> <b>Databases & Tools</b>
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite">
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Redis-DC382D%3Fstyle%3Dfor-the-badge%26logo%3Dredis%26logoColor%3Dwhite">
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05033%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite"> </td> </tr> </table>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="33%">
+      <b>Backend & Core</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <br>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+      <br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    </td>
+    <td align="center" width="33%">
+      <b>Infrastructure & DevOps</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <br>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+      <br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    </td>
+    <td align="center" width="33%">
+      <b>Databases & Tools</b>
+      <br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <br>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+      <br>
+      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">📊 Activity Statistics</h3>
 
