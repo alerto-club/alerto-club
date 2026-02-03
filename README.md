@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello+World!%22);Building+Scalable+Backends;Architecting+Microservices;Focused+on+High-Load+Systems" alt="Typing SVG" />
   </a>
 <br>
-  <a href="https://alerto.pro"><img src="https://img.shields.io/badge/Portfolio-ALERTO.PRO-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010"></a>
-  <a href="https://t.me/AlertoOff"><img src="https://img.shields.io/badge/Telegram-DM_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="mailto:alertoof@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://alerto.club"><img src="https://img.shields.io/badge/Portfolio-ALERTO.PRO-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010"></a>
+  <a href="https://t.me/alerto_club"><img src="https://img.shields.io/badge/Telegram-DM_Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="mailto:alexbut006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <br>
 
