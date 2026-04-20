@@ -15,7 +15,7 @@
 ```java
 public class AlertoProfile {
     private final String NAME = "Alexandr Butenko";
-    private final int AGE = 19;
+    private final int AGE = 20;
     private final String LOCATION = "Kazan, RU";
     private final String EDUCATION = "College of IT @ KTU (2022-2026)";
     
